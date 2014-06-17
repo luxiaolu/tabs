@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>吉他谱</title>
+    </head>
+     <body>
+   <ul>
+{%for id_, song in items%}
+    {%set entrie_link = "/id" ~ '/' ~ id_%}
+    <li style="color: LawnGreen; margin-bottom: 10px"><a href={{entrie_link}}>{{song}}</a></li>
+{%endfor%}
+    </ul>
+    </body>
+</html>
