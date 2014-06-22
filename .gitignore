@@ -1,1 +1,3 @@
-./tab/venv
+*~
+*.swap
+/tab/venv
