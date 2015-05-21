@@ -1,5 +1,4 @@
-tabs
-====
+##tabs
 
 one rough web app for guitar tabs
 
@@ -12,8 +11,8 @@ tab diretory is one web app to provide the service.
 
 **Keyword**
 
-*request, spyder
-*mysql
-*flask
-*jinja2
+1.request, spyder
+2.mysql
+3.flask
+4.jinja2
   
