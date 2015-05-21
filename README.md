@@ -11,8 +11,8 @@ tab diretory is one web app to provide the service.
 
 **Keyword**
 
-1.request, spyder
-2.mysql
-3.flask
-4.jinja2
+1. request, spyder
+2. mysql
+3. flask
+4. jinja2
   
